@@ -10,6 +10,8 @@ package com.xlccc.singleton.lazy;
  * 是否多线程安全：否
  * 实现难度：易
  * @Description： 最基本的实现方式。最大问题，不支持多线程。因为没有加锁synchronized，所以严格意义上并不算单例。
+ *
+ * 不建议使用
  */
 public class Singleton1 {
     private static Singleton1 instance;
