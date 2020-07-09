@@ -1,4 +1,4 @@
-package com.xlccc.factory;
+package com.xlccc.normal_factory;
 
 /**
  * @author Linker
