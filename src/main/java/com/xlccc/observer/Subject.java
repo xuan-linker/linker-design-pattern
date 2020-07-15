@@ -1,4 +1,4 @@
-package com.xlccc.Observer;
+package com.xlccc.observer;
 
 import java.util.ArrayList;
 import java.util.List;

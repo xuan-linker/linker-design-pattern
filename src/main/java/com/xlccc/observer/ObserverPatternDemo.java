@@ -1,4 +1,4 @@
-package com.xlccc.Observer;
+package com.xlccc.observer;
 
 /**
  * @author Linker
