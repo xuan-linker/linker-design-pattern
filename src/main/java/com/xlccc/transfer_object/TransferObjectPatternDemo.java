@@ -1,6 +1,5 @@
 package com.xlccc.transfer_object;
 
-import com.xlccc.filter.Animal;
 
 /**
  * @author Linker

@@ -7,6 +7,7 @@ import java.util.List;
 /**
  * @author Linker
  * @date 2020/7/15 17:54
+ * @Description:业务对象
  */
 public class AnimalBO {
     List<AnimalVO> animals;

@@ -3,6 +3,7 @@ package com.xlccc.transfer_object;
 /**
  * @author Linker
  * @date 2020/7/15 17:53
+ * @Description:传输对象
  */
 public class AnimalVO {
     private int id;
